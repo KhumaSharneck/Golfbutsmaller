@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/khuma/OneDrive/Desktop/Golfbutsmaller/Content/GameFont.spritefont</SourceFile>
+  <SourceTime>2025-01-03T15:38:06.0476839+00:00</SourceTime>
+  <DestFile>C:/Users/khuma/OneDrive/Desktop/Golfbutsmaller/Content/bin/DesktopGL/Content/GameFont.xnb</DestFile>
+  <DestTime>2025-01-03T19:18:34.1497301+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T18:05:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T18:05:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
