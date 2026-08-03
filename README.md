@@ -18,49 +18,49 @@ A short demonstration of the project can be found in:
 
 ## Main Menu
 
-![Main Menu](GameplayScreenshots/menuScreen.png)
+![Main Menu](Screenshots/menuScreen.png)
 
 ---
 
 ## Name Entry
 
-![Name Entry](GameplayScreenshots/nameScreen.png)
+![Name Entry](Screenshots/nameScreen.png)
 
 ---
 
 ## Tutorial
 
-![Tutorial](GameplayScreenshots/tutorialScreen.png)
+![Tutorial](Screenshots/tutorialScreen.png)
 
 ---
 
 ## AI Difficulty Selection
 
-![Difficulty Selection](GameplayScreenshots/difficultyScreen.png)
+![Difficulty Selection](Screenshots/difficultyScreen.png)
 
 ---
 
 ## Ball Customisation
 
-![Ball Customisation](GameplayScreenshots/customisaionScreen.png)
+![Ball Customisation](Screenshots/customisaionScreen.png)
 
 ---
 
 ## Coin Flip
 
-![Coin Flip](GameplayScreenshots/coinflipScreen.png)
+![Coin Flip](Screenshots/coinflipScreen.png)
 
 ---
 
 ## Leaderboard
 
-![Leaderboard](GameplayScreenshots/leaderboardScreen.png)
+![Leaderboard](Screenshots/leaderboardScreen.png)
 
 ---
 
 ## Match Result
 
-![Match Result](GameplayScreenshots/gameresultScreen.png)
+![Match Result](Screenshots/gameresultScreen.png)
 
 ---
 
