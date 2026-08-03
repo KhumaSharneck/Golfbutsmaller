@@ -22,6 +22,14 @@ A short demonstration of the project can be found in:
 
 ---
 
+## Gameplay
+
+![Gameplay](Screenshots/gameplayScreen.png)
+
+Real-time gameplay showing aiming mechanics, power meter, AI opponent and in-game HUD.
+
+---
+
 ## Name Entry
 
 ![Name Entry](Screenshots/nameScreen.png)
