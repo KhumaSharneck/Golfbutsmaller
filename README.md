@@ -2,73 +2,55 @@
 
 A desktop golf game developed in **C#** using **Windows Forms** as part of my A-Level Computer Science NEA.
 
-The project demonstrates object-oriented programming, AI behaviour, user interface design, persistent player statistics and game state management.
+This project challenged me to design and develop a complete desktop game from scratch, demonstrating object-oriented programming, AI behaviour, user interface design, game state management and persistent player statistics.
 
 ---
 
 ## Gameplay Demo
 
-A short demonstration of the project can be found in:
+A short gameplay demonstration is included in this repository.
 
-**GolfbutsmallerDemo.mp4**
+📹 **GolfbutsmallerDemo.mp4**
 
 ---
 
 # Screenshots
 
-## Main Menu
-
-![Main Menu](Screenshots/menuScreen.png)
-
----
-
 ## Gameplay
+
+Real-time gameplay showcasing the aiming system, power meter, AI opponent and in-game HUD.
 
 ![Gameplay](Screenshots/gameplayScreen.png)
 
-Real-time gameplay showing aiming mechanics, power meter, AI opponent and in-game HUD.
+## Main Menu
 
----
+The main navigation screen providing access to all game features.
 
-## Name Entry
-
-![Name Entry](Screenshots/nameScreen.png)
-
----
-
-## Tutorial
-
-![Tutorial](Screenshots/tutorialScreen.png)
-
----
-
-## AI Difficulty Selection
-
-![Difficulty Selection](Screenshots/difficultyScreen.png)
-
----
-
-## Ball Customisation
-
-![Ball Customisation](Screenshots/customisaionScreen.png)
-
----
-
-## Coin Flip
-
-![Coin Flip](Screenshots/coinflipScreen.png)
-
----
+![Main Menu](Screenshots/menuScreen.png)
 
 ## Leaderboard
 
+Persistent player statistics including wins, games played, win percentage and best score.
+
 ![Leaderboard](Screenshots/leaderboardScreen.png)
 
----
+## Ball Customisation
 
-## Match Result
+Players can personalise the appearance of their golf ball before starting a game.
 
-![Match Result](Screenshots/gameresultScreen.png)
+![Ball Customisation](Screenshots/customisaionScreen.png)
+
+## AI Difficulty Selection
+
+Choose between different AI difficulty levels before starting a match.
+
+![Difficulty Selection](Screenshots/difficultyScreen.png)
+
+## Tutorial
+
+Built-in tutorial explaining gameplay mechanics and controls for new players.
+
+![Tutorial](Screenshots/tutorialScreen.png)
 
 ---
 
@@ -94,29 +76,45 @@ Real-time gameplay showing aiming mechanics, power meter, AI opponent and in-gam
 
 - C#
 - Windows Forms
-- Object-Oriented Programming (OOP)
 - Visual Studio
 - .NET Framework
+- Object-Oriented Programming (OOP)
 
 ---
 
-# Project Structure
+# Running the Project
 
-```
-Golfbutsmaller
-├── Content
-│   ├── Fonts
-│   ├── Images
-│   └── Levels
-├── GameplayScreenshots
-├── AIPlayer.cs
-├── Game1.cs
-├── GameplayScreen.cs
-├── LeaderboardManager.cs
-├── PlayerStats.cs
-├── TutorialScreen.cs
+1. Clone or download this repository.
+2. Open `Golfbutsmaller.sln` in Microsoft Visual Studio.
+3. Build the solution.
+4. Run the project.
+
+---
+
+# Repository Structure
+
+```text
+Golfbutsmaller/
+│
+├── Content/
+│   ├── Fonts/
+│   ├── Images/
+│   └── Levels/
+│
+├── Screenshots/
+│
+├── GolfbutsmallerDemo.mp4
+├── Golfbutsmaller.sln
 ├── Golfbutsmaller.csproj
-└── README.md
+├── README.md
+│
+└── Source Files
+    ├── AIPlayer.cs
+    ├── GameplayScreen.cs
+    ├── LeaderboardManager.cs
+    ├── PlayerStats.cs
+    ├── TutorialScreen.cs
+    └── ...
 ```
 
 ---
@@ -124,13 +122,13 @@ Golfbutsmaller
 # Skills Demonstrated
 
 - Object-Oriented Programming
-- Artificial Intelligence
 - Game Development
-- UI Design
+- Artificial Intelligence
+- User Interface Design
+- State Management
 - File Handling
 - Data Persistence
 - Collections & Data Structures
-- State Management
 - Software Architecture
 - Debugging & Testing
 
@@ -141,9 +139,9 @@ Golfbutsmaller
 Potential future improvements include:
 
 - Additional golf courses
-- Improved AI decision making
-- Better graphics and animations
-- Sound effects and music
+- Smarter AI behaviour
+- Improved graphics and animations
+- Additional sound effects and music
 - Multiplayer support
 - Achievement system
 - Expanded player customisation
@@ -154,6 +152,10 @@ Potential future improvements include:
 
 **Khuma Sharneck**
 
-Computer Science student at the University of Reading
+Computer Science Student at the University of Reading
 
 Aspiring Software Engineer
+
+GitHub: https://github.com/KhumaSharneck
+
+LinkedIn: https://www.linkedin.com/in/khuma-sharneck-a47a3a2b1
