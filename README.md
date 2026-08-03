@@ -1,44 +1,151 @@
 # Golfbutsmaller
 
-A desktop golf game developed in C# as part of my A-Level Computer Science NEA.
+A desktop golf game developed in **C#** using **Windows Forms** as part of my A-Level Computer Science NEA.
 
-## Overview
+The project demonstrates object-oriented programming, AI behaviour, user interface design, persistent player statistics and game state management.
 
-Golfbutsmaller is a desktop golf game built using C# and Windows Forms. The project demonstrates object-oriented programming, game logic, artificial intelligence and user interface design. The game features AI-controlled opponents, multiple playable levels, player customisation and persistent player statistics.
+---
 
-## Features
+## Gameplay Demo
 
-- AI-controlled opponents
+A short demonstration of the project can be found in:
+
+**GolfbutsmallerDemo.mp4**
+
+---
+
+# Screenshots
+
+## Main Menu
+
+![Main Menu](GameplayScreenshots/menuScreen.png)
+
+---
+
+## Name Entry
+
+![Name Entry](GameplayScreenshots/nameScreen.png)
+
+---
+
+## Tutorial
+
+![Tutorial](GameplayScreenshots/tutorialScreen.png)
+
+---
+
+## AI Difficulty Selection
+
+![Difficulty Selection](GameplayScreenshots/difficultyScreen.png)
+
+---
+
+## Ball Customisation
+
+![Ball Customisation](GameplayScreenshots/customisaionScreen.png)
+
+---
+
+## Coin Flip
+
+![Coin Flip](GameplayScreenshots/coinflipScreen.png)
+
+---
+
+## Leaderboard
+
+![Leaderboard](GameplayScreenshots/leaderboardScreen.png)
+
+---
+
+## Match Result
+
+![Match Result](GameplayScreenshots/gameresultScreen.png)
+
+---
+
+# Features
+
+- AI-controlled opponent
+- Adjustable AI difficulty
 - Multiple playable levels
-- Adjustable difficulty settings
-- Player customisation
+- Ball customisation
 - Persistent leaderboard
 - Player statistics
-- Sound management
-- Score tracking
+- Win tracking
+- Shot tracking
+- Interactive tutorial
+- Coin flip to determine turn order
 - Pause functionality
-- Multiple user interface screens
+- Multiple game screens
+- Save/load player statistics
 
-## Technologies
+---
+
+# Technologies
 
 - C#
 - Windows Forms
+- Object-Oriented Programming (OOP)
 - Visual Studio
+- .NET Framework
+
+---
+
+# Project Structure
+
+```
+Golfbutsmaller
+├── Content
+│   ├── Fonts
+│   ├── Images
+│   └── Levels
+├── GameplayScreenshots
+├── AIPlayer.cs
+├── Game1.cs
+├── GameplayScreen.cs
+├── LeaderboardManager.cs
+├── PlayerStats.cs
+├── TutorialScreen.cs
+├── Golfbutsmaller.csproj
+└── README.md
+```
+
+---
+
+# Skills Demonstrated
+
 - Object-Oriented Programming
+- Artificial Intelligence
+- Game Development
+- UI Design
+- File Handling
+- Data Persistence
+- Collections & Data Structures
+- State Management
+- Software Architecture
+- Debugging & Testing
 
-## Project Structure
+---
 
-| File | Purpose |
-|------|---------|
-| AIPlayer.cs | Controls AI opponent behaviour |
-| GameplayScreen.cs | Main gameplay logic |
-| LeaderboardManager.cs | Handles leaderboard storage |
-| PlayerStats.cs | Stores player statistics |
-| SoundManager.cs | Controls audio and sound effects |
+# Future Improvements
 
-## Future Improvements
+Potential future improvements include:
 
-- Improve AI decision making
-- Add additional levels
-- Introduce more player customisation
-- Improve graphics and animations
+- Additional golf courses
+- Improved AI decision making
+- Better graphics and animations
+- Sound effects and music
+- Multiplayer support
+- Achievement system
+- Expanded player customisation
+
+---
+
+## Author
+
+**Khuma Sharneck**
+
+Computer Science student at the University of Reading
+
+Aspiring Software Engineer
