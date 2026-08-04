@@ -155,7 +155,3 @@ Potential future improvements include:
 Computer Science Student at the University of Reading
 
 Aspiring Software Engineer
-
-GitHub: https://github.com/KhumaSharneck
-
-LinkedIn: https://www.linkedin.com/in/khuma-sharneck-a47a3a2b1
